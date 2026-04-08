@@ -11,10 +11,10 @@ Whether your goal is to enter a Japanese university, build a career in Japan, or
 ## 🏫 Our Schools
 
 * **ARC Tokyo Japanese Language School**
-  https://www.arc.ac.jp/english/tokyo/
+  https://arc.ac.jp/Tokyo/en/
 
 * **ARC Kyoto Japanese Language School**
-  https://www.arc.ac.jp/english/kyoto/
+  https://www.arc.ac.jp/Kyoto
 
 ## 🎯 Why Choose ARC Gakuen?
 
@@ -33,4 +33,5 @@ Learning Japanese is more than studying a language — it’s opening the door t
 ---
 
 We look forward to welcoming you to Japan 🇯🇵
+
 IT Department of ARC Gakuen
