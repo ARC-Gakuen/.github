@@ -1,1 +1,0 @@
-We are an educational institution in Japan dedicated to teaching the Japanese language, with campuses in Tokyo and Kyoto. Since 1986, our schools have trained students from all over the world, combining high-quality language education with a strong connection to Japanese culture and society.
